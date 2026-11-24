@@ -1,0 +1,7 @@
+{
+  "name": "makefun-ridiculous-startup-20261124",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "main": "main.ts"
+}
